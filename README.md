@@ -23,7 +23,7 @@ Column top heights extracted from [Petersen et al. (2012)](https://doi.org/10.51
 | NAME     | FALL3D  |
 | -------- | ------- |
 | ![NAME](NAME/24052011_0600.jpg) | ![FALL3D](con/tephra_con_layer_060.png) |
-| ![NAME](NAME/25052011_0600.png) | ![FALL3D](con/tephra_con_layer_080.png) |
+| ![NAME](NAME/25052011_0600.png) | ![FALL3D](con/tephra_con_layer_084.png) |
 
 ## References
 
